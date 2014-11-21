@@ -25,7 +25,8 @@ public class Main {
 		System.out.println("segundo cambio en rama galileo");
 		System.out.println("tercer cambio en rama galileo");
 		System.out.println("1er cambio en rama master Rakzo"); //rakzo
-		System.out.println("2er cambio en rama master Rakzo"); //rakzo
+		System.out.println("2do cambio en rama master Rakzo"); //rakzo
+		System.out.println("3er cambio en rama master Rakzo... care nunche"); //rakzo
 		
 		
 
