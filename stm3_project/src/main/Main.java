@@ -12,7 +12,8 @@ public class Main {
 		System.out.println("proyecto original stm3");
 		System.out.println("primer cambio en rama master");
 		System.out.println("tercer cambio en rama masster");
-		System.out.println("cuarto cambio en rama masster echo desde github ");
+		System.out.println("cuarto cambio en rama masster echo desde github");
+		System.out.println("sexto cambio en rama masster echo desde eclipse");
 		
 
 	}
