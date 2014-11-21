@@ -21,6 +21,8 @@ public class Main {
 		System.out.println("quinto cambio en rama masster hacen la actualizacion los dos al mismo timepo  ");
 		System.out.println("octavo cambio en rama masster en lineas diferentes");
 		
+		System.out.println("primer cambio en rama galileo");
+		
 
 	}
 
